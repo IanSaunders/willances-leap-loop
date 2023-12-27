@@ -40,7 +40,7 @@ ogImage:
    - Continue your route past the cricket club, heading northwest towards Willance's Leap. Enjoy the scenic views and local folklore associated with this spot.
 
 **6. Loop Around Willance's Leap**
-   - Complete a loop around Willance’s Leap and then head back down through the forest. Be mindful of the farm animals along the way.
+   - Complete a loop around Willance’s Leap and then head back down through the forest. Be mindful of the farm animals along the way. You head down a steep road before coming to a path on the right which leads to the river and then through a short wooded area.
 
 **7. Cross into Round Howe and Return to Richmond Castle**
    - Upon reaching a busy road, cross over into Round Howe. Cross the iron bridge as you make your way back towards Richmond Castle.

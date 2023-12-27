@@ -18,4 +18,4 @@ For further information please see: [FKT Guidelines](https://fastestknowntime.co
 
 ### **What is the FKT for Willance's Leap Loop?**
 
-Currently no-one has set the FKT for either woman, male of mixed teams!
+Currently no-one has set the FKT for either woman, male or mixed teams!
