@@ -18,43 +18,42 @@ ogImage:
 
 [Trail Router Map](https://trailrouter.com/oTLR2)
 
-[GPX File - Coming Soon](TBC)
+[GPX File](/assets/blog/the-route/route.gpx)
+
+[KML File](/assets/blog/the-route/route.kml)
 
 ### **Step-by-Step Running Route Guide**
 
 **1. Start at Easby Abbey Parking Lot**
-   - Begin your run at the Easby Abbey parking lot. From here, head south towards the River Swale, enjoying the serene surroundings.
+   - Begin your run at the Easby Abbey parking lot. Head west towards Richmond, passing the iconic 'Drummer Boy' statue.
 
-**2. Cross the Bridge towards "The Station"**
-   - After reaching the river, cross the bridge over the Swale. Once across, turn north and run towards the old train station known as "The Station."
+**2. Cross the Road Towards the Batts**
+   - After reaching the main road, cross it safely and head southwest towards the Batts, leading up to the waterfall.
 
-**3. Proceed to "The Green Bridge"**
-   - Continue your journey, crossing "The Green Bridge." After the bridge, turn southwest towards the Batts, an area leading up to a picturesque waterfall.
+**3. Waterfall and Staircase Ascent**
+   - Continue straight past the waterfall until you encounter a staircase. Ascend the staircase, then double back along the outer castle wall.
 
-**4. Visit the Waterfall and Town Center**
-   - Enjoy the scenic hike up from the waterfall. Once you reach the town center, run past the striking obelisk, a notable monument in the area.
+**4. Town Square and Obelisk**
+   - Make your way up into the town square. Run past the obelisk, a notable landmark in the center of the town.
 
-**5. Head towards Willance's Leap**
-   - Continue your run past the cricket club. Then, head northwest towards Willance’s Leap. This part of the route is rich in local folklore and offers beautiful views.
+**5. Past the Cricket Club to Willance's Leap**
+   - Continue your route past the cricket club, heading northwest towards Willance's Leap. Enjoy the scenic views and local folklore associated with this spot.
 
-**6. Loop around Willance's Leap**
-   - Complete a loop around the area of Willance’s Leap. Be mindful of farm animals as you head back down through the forest. This area requires careful navigation due to its natural terrain.
+**6. Loop Around Willance's Leap**
+   - Complete a loop around Willance’s Leap and then head back down through the forest. Be mindful of the farm animals along the way.
 
-**7. Cross the Busy Road**
-   - You will encounter a busy road. Cross it safely and continue your journey back towards Richmond. Be cautious and watch for traffic.
+**7. Cross into Round Howe and Return to Richmond Castle**
+   - Upon reaching a busy road, cross over into Round Howe. Cross the iron bridge as you make your way back towards Richmond Castle.
 
-**8. Climb towards Richmond Castle**
-   - As you approach Richmond, take a moment for a quick climb near Richmond Castle. Then, enjoy a run along the castle path, which offers stunning views of the historic structure.
+**8. South Side of the River Swale**
+   - Cross the road and proceed on the south side of the River Swale. Make sure to pass underneath the green bridge.
 
-**9. Return to the Waterfall**
-   - After exploring the castle surroundings, descend back down to the waterfall. The sound of cascading water makes for a tranquil running backdrop.
+**9. Final Stretch Back to Easby Abbey**
+   - Continue straight, crossing a final bridge, then arrive back at Easby Abbey.
 
-**10. Head Back to Easby Abbey without Crossing the Bridge**
-   - Proceed towards the bridge but do not cross it. Instead, take a path on the north side of the River Swale. This path will lead you straight back to Easby Abbey.
-
-**Conclusion:**
-   - You'll finish your run where you started, at Easby Abbey. This route offers a mix of historical sights, natural beauty, and a touch of adventure, making it a memorable and varied running experience.
+**Congratulations!**
+   - You have successfully completed the run, experiencing a mix of historic sites, natural beauty, and the charm of Richmond.
 
 ---
 
-Remember to take adequate water, wear suitable running gear, and be prepared for changes in terrain and elevation. Enjoy your run!
+This route offers a blend of historical landmarks, natural landscapes, and the challenge of a varied terrain, making for an exciting and fulfilling running experience.
