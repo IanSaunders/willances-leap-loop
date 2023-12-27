@@ -7,7 +7,7 @@ const Intro = () => {
         Willance's Leap Loop.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-      Loop from Castle to Courageous Leap
+       From Castle to Courageous Leap
       </h4>
     </section>
   )

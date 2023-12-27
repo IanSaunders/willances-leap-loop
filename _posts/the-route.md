@@ -7,8 +7,19 @@ author:
   name: Ian Saunders
   picture: '/assets/blog/authors/ian_avatar.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.png'
+  url: '/assets/blog/the-route/cover.png'
 ---
+## Key Figures
+
+- Distance: 17km
+- Elevation Gain: 440m
+
+## Navigation Aids
+
+[Trail Router Map](https://trailrouter.com/oTLR2)
+
+[GPX File - Coming Soon](TBC)
+
 ### **Step-by-Step Running Route Guide**
 
 **1. Start at Easby Abbey Parking Lot**
