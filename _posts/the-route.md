@@ -2,10 +2,10 @@
 title: 'The Route'
 excerpt: 'Begin your run at the Easby Abbey parking lot. From here, head south towards the River Swale, enjoying the serene surroundings.'
 coverImage: '/assets/blog/hello-world/cover.png'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-12-25T05:35:07.322Z'
 author:
   name: Ian Saunders
-  picture: '/assets/blog/authors/tim.jpeg'
+  picture: '/assets/blog/authors/ian_avatar.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.png'
 ---

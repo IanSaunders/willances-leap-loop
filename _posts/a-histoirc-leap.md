@@ -1,13 +1,13 @@
 ---
 title: 'A Historic Leap and Norman Castle  '
 excerpt: 'Willances horse leapt off Whitcliffe Scar, a nearby cliff, during a thick fog. Miraculously, Willance survived.  Willances Leap, Richmond, and Easby Abbey form a rich cultural tapestry, each contributing to the unique historical and cultural landscape of the area.'
-coverImage: '/assets/blog/main/willaces_leap.png'
+coverImage: '/assets/blog/main/willaces_leap.jpeg'
 date: '2023-12-26T05:35:07.322Z'
 author:
-  name: Louise Saunders
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Ian Saunders
+  picture: '/assets/blog/authors/ian_avatar.jpeg'
 ogImage:
-  url: '/assets/blog/main/willaces_leap.png'
+  url: '/assets/blog/main/willaces_leap.jpeg'
 ---
 ## Willance's Leap
 Willance's Leap is steeped in local folklore and history. According to legend, this spot is where Robert Willance, a 17th-century merchant and one of Richmond's notables, miraculously survived a horse riding accident. In 1606, Willance's horse leapt off Whitcliffe Scar, a nearby cliff, during a thick fog. Miraculously, Willance survived, albeit with an injured leg, which later had to be amputated. This extraordinary tale has cemented Willance's Leap into local lore, symbolizing human resilience and fortune. Over the centuries, it has become a point of cultural significance, representing not just a tale of survival but also a deep connection to the landscape and history of the region.
