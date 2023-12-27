@@ -1,6 +1,6 @@
 ---
 title: 'The History'
-excerpt: "Willance`s horse leapt off Whitcliffe Scar, a nearby cliff, during a thick fog. Miraculously, Willance survived.  Willance`s Leap, Richmond, and Easby Abbey form a rich cultural tapestry, each contributing to the unique historical and cultural landscape of the area."
+excerpt: "Willance's horse leapt off Whitcliffe Scar, a nearby cliff, during a thick fog. Miraculously, Willance survived.  Willance's Leap, Richmond, and Easby Abbey form a rich cultural tapestry, each contributing to the unique historical and cultural landscape of the area."
 coverImage: '/assets/blog/main/willaces_leap.jpeg'
 date: '2023-12-26T05:35:07.322Z'
 author:
