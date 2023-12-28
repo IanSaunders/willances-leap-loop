@@ -16,7 +16,7 @@ ogImage:
 
 ## Navigation Aids
 
-[Trail Router Map](https://trailrouter.com/oTLR2)
+[Trail Router Map](https://trailrouter.com/HZyJ0)
 
 [GPX File](/assets/blog/the-route/route.gpx)
 
